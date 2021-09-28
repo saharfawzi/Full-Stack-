@@ -1,2 +1,2 @@
-# Full-Stack-
+# Full-Stack
 Full-Stack Development Bootcamp
